@@ -1,0 +1,37 @@
+[33mcommit 5680dc17e0d253dd329a247a24becb0b04ef2ac2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jjjj <jjj@yahoo.com>
+Date:   Wed Mar 4 13:02:05 2020 +0330
+
+    two java and py files from local
+
+[33mcommit 633168cbc4c8b5af797fdca17d6f99e24b6d01e8[m
+Author: jjjj <jjj@yahoo.com>
+Date:   Tue Mar 3 13:38:23 2020 +0330
+
+    Two txt files added.
+
+[33mcommit b0891d48bdb1c46cfe3e1e02cfc86cc694c32c13[m
+Author: Prof-Alpha <45327480+Prof-Alpha@users.noreply.github.com>
+Date:   Tue Mar 3 13:11:45 2020 +0330
+
+    Create test22.txt
+
+[33mcommit 889af9363f18c481f1c9a1986be98c20ae5a70fd[m
+Author: Prof-Alpha <45327480+Prof-Alpha@users.noreply.github.com>
+Date:   Wed Sep 18 11:31:49 2019 +0430
+
+    delete default readme
+
+[33mcommit 444972471a6235f4c0072a95b3fb65cf522ebe3e[m
+Author: Prof-Alpha <45327480+Prof-Alpha@users.noreply.github.com>
+Date:   Tue Sep 17 14:03:56 2019 +0430
+
+    commit from onebranch
+    
+    description onebranch
+
+[33mcommit 77df03309ce6b9582136aa3593911651a166e663[m
+Author: Prof-Alpha <45327480+Prof-Alpha@users.noreply.github.com>
+Date:   Tue Sep 17 13:41:25 2019 +0430
+
+    Initial commit
